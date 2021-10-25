@@ -1,0 +1,3 @@
+AdobePhotoshop AdobeSystems 1988 7567
+Code::Blocks TheCode::BlocksTeam 2017 83567
+KOMPAS-3D ASCON 2008 43513

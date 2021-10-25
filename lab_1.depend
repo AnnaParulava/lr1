@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634138607 source:c:\users\anna\desktop\stc\1\projects\lab_1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+
+1634637379 source:c:\users\anna\desktop\stc\projects\lab_1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+
